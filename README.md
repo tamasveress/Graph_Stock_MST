@@ -1,1 +1,1 @@
-# Graph_Stock_MST
+# Minimum Spanning Tree of Stock Markets
